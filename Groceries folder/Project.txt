@@ -1,0 +1,7 @@
+Basic Inputs       |   Try-Catch
+                   |
+I0 -> string       |   [INPUT] -> String
+10 -> int          |   
+10.123 -> double   |
+True -> Boolean    |
+          ==       |
